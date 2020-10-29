@@ -4,7 +4,7 @@
   "description": "API Test Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "api-test-project": "newman run eCommerce.postman_collection.json"
   },
   "author": "",
   "license": "ISC",
